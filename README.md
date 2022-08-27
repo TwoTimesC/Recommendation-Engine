@@ -4,4 +4,4 @@ A simple recommendation engine that will show you gifts based on wether the gend
 This application makes use of an API (https://genderize.io/), of a scraper (https://www.amazon.nl/) and a text file.
 
 Use: give in a name and if the person likes or dislikes something
-Exmaple: Thomas likes cars.
+Example: Thomas likes cars.
